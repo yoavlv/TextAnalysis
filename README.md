@@ -5,11 +5,13 @@ This project aims to build and evaluate machine learning models for gender class
 
 # Results:
 
-**Model Benchmark**
+#Model Benchmark
+
 ![PPM!](Img/Models_benchmark.png)
 
 
-**confusion_matrix**
+#confusion_matrix
+
  ![PPM!](Img/1.png)
  
  ![PPM!](Img/2.png)
