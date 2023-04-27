@@ -1,7 +1,7 @@
 # TextAnalysis
 
 Model Selection and Tuning for Gender Classification
-This project aims to build and evaluate machine learning models for gender classification based on various classifiers. The models are built on a preprocessed dataset containing various features related to a user's profile.
+This project aims to build and evaluate machine learning models for gender classification based on various classifiers. 
 
 # Results:
 
@@ -11,13 +11,21 @@ This project aims to build and evaluate machine learning models for gender class
 
 **confusion_matrix**
  ![PPM!](Img/1.png)
+ 
  ![PPM!](Img/2.png)
+ 
  ![PPM!](Img/3.png)
+ 
  ![PPM!](Img/4.png)
+ 
  ![PPM!](Img/5.png)
+ 
  ![PPM!](Img/6.png)
+ 
  ![PPM!](Img/7.png)
+ 
  ![PPM!](Img/8.png)
+ 
  ![PPM!](Img/0.png)
 
 
