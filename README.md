@@ -26,18 +26,21 @@ This project aims to build and evaluate machine learning models for gender class
  
  ![PPM!](Img/8.png)
  
- ![PPM!](Img/0.png)
+ ![PPM!](Img/9.png)
 
 
 
 The model_selection.ipynb notebook can be run on a Jupyter Notebook environment. The notebook contains the following sections:
 
 **Data Preprocessing:** The data is loaded and preprocessed 
+
 **Model Building:** The models are built using the get_models() function which initializes a dictionary of classifiers and a stacking ensemble of classifiers.
+
 **Hyperparameter Tuning:** The find_best_params() function is used to find the best hyperparameters for each classifier using a grid search with cross-validation.
-Model Evaluation: The evaluate_model() function is used to evaluate each model using cross-validation and different parameters.
-Results: The results are displayed and analyzed.
-Credits
+
+**Model Evaluation:** The evaluate_model() function is used to evaluate each model using cross-validation and different parameters.
+
+**Credits**
 This project was created by yoavlv.
 
 **Dependencies**
